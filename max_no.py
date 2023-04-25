@@ -1,7 +1,7 @@
 import sys
 
 print("\t\t\t🤗A warm welcome to Jawabu Program!!!!👏")
-print("Feel free to know the maximum number in all the numbers you list below.")
+print("Feel free to know the maximum number in all the numbers you list below.....")
 jibu = input("Kindly enter all the numbers: ")
 jibu1 = jibu.split() #split with a space in between
 
